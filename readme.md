@@ -4,14 +4,6 @@
 - 👀 Tenho interesse em absorver o máximo de conhecimento e adquirir habilidades necessárias em programação para o mercado de trabalho.
 - 🌱 Atualmente estou aprendendo que nunca é tarde para recomeçar, e aqui estou! além dos 30 tentando me virar como desenvolvedor.
 - 💞️ Procuro colaborar (atualmente) com projetos na linguagem JS, apesar de estar no início, tenho muito interesse em praticar nessa linguagem.
-
-##
-
-<div align="center">
-  <a href="https://github.com/lelestarcisio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lelestarcisio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelestarcisio&layout=compact&langs_count=7&theme=gotham"/>
-</div>
   
   #
   <div style="display: inline_block"><br>
