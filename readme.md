@@ -11,7 +11,7 @@
   <img align="center" alt="Tleles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tleles-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Tleles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Tleles-CSS" height="30" width="40" src="https://img.icons8.com/fluency/512/angularjs.png">
+  <img align="center" alt="Tleles-CSS" height="30" width="40" src="https://img.icons8.com/color/512/angularjs.png">
         
 </div>
   
