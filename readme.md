@@ -3,16 +3,15 @@
 
 - 👀 Tenho interesse em absorver o máximo de conhecimento e adquirir habilidades necessárias em programação para o mercado de trabalho.
 - 🌱 Atualmente estou aprendendo que nunca é tarde para recomeçar, e aqui estou! além dos 30 tentando me virar como desenvolvedor.
-- 💞️ Procuro colaborar (atualmente) com projetos na linguagem JS, apesar de estar no início, tenho muito interesse em praticar nessa linguagem.
   
-  #
+  ## Tecnologias usadas no dia a dia:
   <div style="display: inline_block"><br>
   <img align="center" alt="Tleles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tleles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Tleles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Tleles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Tleles-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Tleles-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Tleles-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Tleles-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">          
 </div>
   
