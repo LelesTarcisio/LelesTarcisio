@@ -2,7 +2,7 @@
 
 
 - 👀 Tenho interesse em absorver o máximo de conhecimento e adquirir habilidades necessárias em programação para o mercado de trabalho.
-- 🌱 Atualmente estou aprendendo que nunca é tarde para recomeçar, e aqui estou! além dos 30 tentando me virar como desenvolvedor.
+- 🌱 Atualmente estou aprendendo que nunca é tarde para recomeçar, e aqui estou! além dos 30 me virando como desenvolvedor.
   
   ## Tecnologias usadas no dia a dia:
   <div style="display: inline_block"><br>
